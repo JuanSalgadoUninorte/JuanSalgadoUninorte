@@ -153,4 +153,4 @@ Software Engineer based on development, analysis and testing / Ingenierio de Sof
         src="https://atsqa.org/assets/images/badges/CTFL-AT-badge.png"/>
 
 ### 💰 &nbsp;Support My Work / Apoya mi trabajo
-[![BuyMeACoffee](https://img.shields.io/badge/Invítame%20un%20café%20or%20Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
+[![BuyMeACoffee](https://img.shields.io/badge/Invítame%20un%20café%20or%20Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](coff.ee/jdsalgado) 
