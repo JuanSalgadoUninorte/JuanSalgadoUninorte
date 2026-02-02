@@ -29,6 +29,7 @@ y pruebas.
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="80" height="80" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="80" height="80" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="80" height="80" />
+    <img src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="Robot Framework" width="80" height="80" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" alt="Puppeteer" width="80" height="80" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-original.svg" alt="Gatling" width="80" height="80" />
     <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="80" height="80" />
