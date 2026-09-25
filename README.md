@@ -115,6 +115,7 @@ y pruebas.
 <h3 align="left">🎖 &nbsp;Next Badges / Próximas Certificaciones</h3>
 <img height="80" width="80" src="https://www.flexmind.co/wp-content/uploads/2020/12/azure-developer-associate-600x600-1.png" />
 <img height="80" width="90" src="https://atsqa.org/assets/images/badges/CTFL-AT-badge.png" />
+<img height="80" width="90" src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*JJu4MIufTv3PCS3J8V92zg.png" />
 
 ### 💰 &nbsp;Support My Work / Apoya mi trabajo
 [![BuyMeACoffee](https://img.shields.io/badge/Invítame%20un%20café%20or%20Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jdsalgado)
