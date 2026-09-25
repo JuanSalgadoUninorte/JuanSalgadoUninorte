@@ -111,8 +111,8 @@ y pruebas.
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 <h3 align="left">🎖 &nbsp;My Badges / Mis Certificaciones</h3>
 <img height="80" width="80" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" />
-<h3 align="left">🎖 &nbsp;Next Badges / Próximas Certificaciones</h3>
 <img height="80" width="80" src="https://pages.awscloud.com/rs/112-TZM-766/images/1268_AWS_Cert_Template_badges_Cloud-Practitioner.png" />
+<h3 align="left">🎖 &nbsp;Next Badges / Próximas Certificaciones</h3>
 <img height="80" width="80" src="https://www.flexmind.co/wp-content/uploads/2020/12/azure-developer-associate-600x600-1.png" />
 <img height="80" width="90" src="https://atsqa.org/assets/images/badges/CTFL-AT-badge.png" />
 
